@@ -1,14 +1,29 @@
 HTML
   * HTML Dasar
+
+  * Paragraf
+  * Heading
+  * Gambar
+  * Hyperlink
+  * HTML Form
 CSS
   * CSS Dasar
-  * CSS Layouting
   * CSS 3
-  * CSS Grid dan Flexbox
+  * CSS Layouting
+  * CSS Grid
+  * CSS Flexbox
+Javascript
+  * React
+  * Node JS
+  * Next JS
+Framework CSS
+  * Tailwind CSS
+
 Javascript
   * Javascript Dasar
 Framework CSS
   * Bootstrap
+
 Git & Github
   * Commit
   * Branch
